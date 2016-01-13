@@ -1,0 +1,13 @@
+library(shiny)
+shinyUI(fluidPage(
+  titlePanel("互联网+德州之夜"),
+  sidebarLayout(
+    sidebarPanel(
+      img(src="girl.png")
+      ),
+    mainPanel(
+      plotOutput("plot1"),
+      plotOutput("plot2")
+             )
+    )
+))

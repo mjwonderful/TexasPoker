@@ -1,0 +1,9 @@
+name: TexasPoker
+account: mjdata
+server: shinyapps.io
+appId: 77637
+bundleId: 348739
+url: https://mjdata.shinyapps.io/TexasPoker/
+when: 1452673633.78404
+asMultiple: FALSE
+asStatic: FALSE
